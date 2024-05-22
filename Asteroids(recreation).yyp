@@ -27,7 +27,7 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"SpaceRocks_button.yymps","CopyToMask":-1,"filePath":"datafiles/Space_Rocks_Menu_Sprite/Space Rocks Menu Sprite","name":"SpaceRocks_button.yymps","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"BitPap.ttf","CopyToMask":-1,"filePath":"datafiles","name":"BitPap.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
